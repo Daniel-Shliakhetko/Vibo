@@ -713,6 +713,12 @@
 }
 
 @media (max-width: 768px) {
+  .header{
+    padding:0 1em!important;
+  }
+  .header__item {
+    margin-left: 0.5em!important;
+  }
   .home {
     padding-top: 3em !important;
   }
