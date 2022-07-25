@@ -209,7 +209,7 @@
 
 .home__background {
   width: 100vw;
-  height:100vh;
+  height:130vh;
   position: absolute;
   top: 0;
   left: 0;
@@ -469,6 +469,7 @@
 }
 
 .app__background {
+  height:100%
   width: 100vw;
   left: 0;
   position: absolute;
